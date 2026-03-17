@@ -1,4 +1,4 @@
-# 📦 Tar Utilities
+# 📦 Archive Utilities
 
 A set of simple Bash scripts for creating and extracting `.tar` and `.tar.gz` archives.
 
